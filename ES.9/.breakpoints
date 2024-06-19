@@ -1,0 +1,20 @@
+{
+  "files": {
+    "coord.dat": [
+      {
+        "id": "fdae73f2-29d0-466f-8cb5-5eeb42c727b1",
+        "line": 6,
+        "version": 12,
+        "index": 100
+      }
+    ],
+    "ingiro.cpp": [
+      {
+        "id": "fd63f54d-026e-4b2f-805a-0b2b67347a50",
+        "line": 6,
+        "version": 8122,
+        "index": 101
+      }
+    ]
+  }
+}
